@@ -44,4 +44,4 @@ My focus is on demonstrating how sound technical decisions translate into practi
 
 ---
 
-**Connect:** [LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/alecsarb25)
+**Connect:** [GitHub](https://github.com/alecsarb25)
