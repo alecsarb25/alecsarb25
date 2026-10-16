@@ -1,4 +1,4 @@
-# Alec Scott
+# Alec Agen
 ### IT Operations & Infrastructure Leadership | Systems Architecture | Security & Automation
 
 IT professional with experience leading technology operations, supporting enterprise infrastructure, managing service delivery, and working across corporate IT and operational technology (IT/OT) environments.
